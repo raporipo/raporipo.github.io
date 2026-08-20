@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://raporipo.github.io/sitemap.xml
+Sitemap: https://fuminose.com/sitemap.xml
