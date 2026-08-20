@@ -1,10 +1,15 @@
-# raporipo
+# fuminose.com
 
-> GitHub Pages site maintained by raporipo. The site may host additional projects in the future; at present it is dedicated to AI Value Exploration Notes.
+> Public project index maintained by raporipo.
 
 ## Current project
 
-- [AI Value Exploration Notes](https://raporipo.github.io/ai-value-exploration-notes/)
-- [LLM-oriented project index](https://raporipo.github.io/ai-value-exploration-notes/llms.txt)
-- [Project sitemap](https://raporipo.github.io/ai-value-exploration-notes/sitemap.xml)
+- [AI Value Exploration Notes](https://fuminose.com/ai-value-exploration-notes/)
+- [LLM-oriented project index](https://fuminose.com/ai-value-exploration-notes/llms.txt)
+- [Project sitemap](https://fuminose.com/ai-value-exploration-notes/sitemap.xml)
 - [GitHub repository](https://github.com/raporipo/ai-value-exploration-notes)
+
+## Site metadata
+
+- [Site sitemap](https://fuminose.com/sitemap.xml)
+- [robots.txt](https://fuminose.com/robots.txt)
